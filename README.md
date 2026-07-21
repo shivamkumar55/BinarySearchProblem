@@ -1,4 +1,4 @@
 # Binary Search Problem
-- 1. peak index in mountain Array.
-- 2. Upper bound and Lower bound.
-- 3. Painter's partition problem. 
+- peak index in mountain Array.
+- Upper bound and Lower bound.
+- Painter's partition problem. 
