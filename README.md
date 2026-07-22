@@ -1,4 +1,6 @@
 # Binary Search Problem
 - peak index in mountain Array.
 - Upper bound and Lower bound.
-- Painter's partition problem. 
+- Book Allocation problem.
+- Painter's partition problem.
+- square root without using any operator.
